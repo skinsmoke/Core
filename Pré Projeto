@@ -1,0 +1,126 @@
+INSTITUTO FEDERAL DO PARANÁ
+CAMPUS PINHAIS
+CURSO TÉCNICO EM INFORMÁTICA INTEGRADO AO ENSINO MÉDIO
+
+
+Emilly Outramario Miranda e Amanda
+
+
+
+
+
+Trabalho de conclusão de curso - CORÉ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PINHAIS
+2026
+Amanda e Emilly
+
+
+
+
+
+
+
+
+
+
+
+
+TÍTULO DO TRABALHO - TÍTULO EXPANDIDO
+
+
+Trabalho apresentado ao Curso Técnico em Informática Integrado ao Ensino Médio do Campus Pinhais, do Instituto Federal do Paraná, como requisito parcial para aprovação no componente curricular Trabalho de Conclusão de Curso.
+
+Professor Responsável: 
+Prof. Esp.|Me.|Dr. Nome do Professor.
+
+
+
+
+
+
+
+
+
+
+
+
+PINHAIS
+2026
+SUMÁRIO
+
+1 INTRODUÇÃO	4
+1.1 PROBLEMATIZAÇÃO
+1.2 JUSTIFICATIVA	4
+1.2 OBJETIVOS	8
+1.2.1 Objetivo geral	8
+1.2.2 Objetivos específicos	8
+2 FUNDAMENTAÇÃO TEÓRICA	9
+3 MÉTODO	9
+4 RESULTADOS E DISCUSSÃO	9
+5 CONCLUSÃO	9
+6 REFERÊNCIAS	10
+
+
+1 INTRODUÇÃO
+DELIMITAÇÃO DO TEMA
+Tema e Abrangência: A pesquisa foca na área da saúde hormonal e mental, especificamente no Transtorno Disfórico Pré-Menstrual (TDPM) e suas comorbidades. A abrangência do estudo compreende a relação entre a menstruação e o Transtorno do Espectro Autista (TEA), com ênfase na fase lútea e na influência do corpo sobre a mente. O público-alvo são pessoas menstruantes que sofram de TDPM — incluindo mulheres, pessoas não binárias e homens trans — com foco prioritário, em indivíduos neurodivergentes (TEA e TDAH).
+Local da Pesquisa (Espaço): A pesquisa será realizada em ambiente virtual, acessível via dispositivos móveis (telefones celulares), tendo como principal ferramenta o desenvolvimento e teste de um aplicativo específico.
+Cronograma (Tempo): O projeto terá a duração total entre outubro de 2025 e novembro de 2026, com a execução principal das etapas de pesquisa e coleta de dados ao longo do ano de 2026.
+JUSTIFICATIVA E PROBLEMATIZAÇÃO
+O Transtorno Disfórico Pré-Menstrual (TDPM) é uma forma grave e incapacitante da TPM, com sintomas extremos como depressão profunda e ansiedade intensa durante a fase lútea. Essa condição afeta drasticamente a vida social e profissional, exigindo diagnóstico e, muitas vezes, tratamento medicamentoso. Pessoas com TEA e TDAH são as mais propensas a essa condição, embora ela também afete neurotípicos. O problema central é a carência de espaços que considerem essas particularidades neurodivergentes. Surge a questão:como criar um espaço acolhedor para pessoas que sofrem de TDPM, focando na fase lútea e na melhoria da qualidade de vida?
+O grande objetivo deste trabalho é desenvolver o aplicativo Coré. Esta ferramenta visa oferecer suporte emocional, conscientização sobre a TDPM e estratégias de autocuidado, integrando a compreensão de como o ciclo hormonal impacta a saúde mental. A contribuição do Coré é proporcionar autonomia e acolhimento para mulheres e pessoas menstruantes autistas ou neurotípicas, transformando o manejo do ciclo em uma experiência mais previsível e segura, garantindo que a vulnerabilidade desse período não comprometa seu bem-estar.
+
+
+1.2 OBJETIVOS
+
+1.2.1 Objetivo geral
+
+Desenvolver o aplicativo Coré, uma plataforma tecnológica desenhada para oferecer suporte emocional especializado, disseminar informações científicas sobre o Transtorno Disfórico Pré-Menstrual (TDPM) e fornecer ferramentas de autocuidado adaptadas às necessidades sensoriais e cognitivas de pessoas autistas e demais pessoas menstruantes.
+
+1.2.2 Objetivos específicos
+Objetivos Específicos
+1. Desenvolver uma área de relaxamento no aplicativo, com músicas e práticas guiadas.
+2. Implementar um sistema de registro e lembretes para o acompanhamento da menstruação.
+3. Facilitar a criação de uma rede de apoio, proporcionando um ambiente seguro para desabafos e compartilhamento de experiências.
+
+
+
+
+2 FUNDAMENTAÇÃO TEÓRICA
+É fundamental entender como as mulheres autistas vivenciam o ciclo menstrual para criar soluções que atendam às suas necessidades reais. De acordo com essa afirmação, observa-se que a população autista pode manifestar uma grande sensibilidade hormonal. De acordo com Brighten (2024), tal condição intensifica os sintomas da Tensão Pré-Menstrual (TPM), impactando no emocional e comportamento da mulher. Nesse sentido, o Transtorno Disfórico Pré-Menstrual (TDPM) é como uma grande manifestação da TPM, exercendo um impacto significativo na qualidade de vida. Conforme aponta o Leafwing Center (2024), pessoas autistas podem experienciar o período menstrual com maior carga de estresse, o que resulta no aumento da ansiedade, em episódios de sobrecarga sentimental e em mudanças de humor mais intensas durante cada fase do ciclo.  Para manter o bem-estar mental, é essencial criar lugares seguros onde elas possam se expressar livremente.Por outro lado, ambientes digitais e aplicativos surgem como ferramentas promissoras, funcionando como redes de apoio que facilitam o compartilhamento de experiências e o acesso a práticas de autocuidado, como o monitoramento do ciclo e técnicas de relaxamento. Ou seja, essas ferramentas ajudam a cuidar da saúde mental e a informar sobre a TDPM, dando mais independência e apoio emocional para mulheres autistas.
+
+
+         MÉTODO
+Para essa pesquisa, será desenvolvida um aplicativo que foque nas emoções e nas consequências da condição, contendo no aplicativo um espaço de musicoterapia, fóruns, calendário menstrual, e um diário. A musicoterapia foca na parte mental, para ajudar a melhorar a mente em momentos de crise que são mais frequentes na TDPM. Os fóruns são espaços para compartilhar ensinamento e dicas para lidar com essa fase, sendo regulado e vigiado com regras. O calendário menstrual seria uma forma de garantir rotina, para melhor organização e regulação das pessoas menstruantes e o diário seria um espaço seguro para a pessoa poder escrever seus sentimentos e seu cotidiano. O aplicativo será todo programado para Android, em JavaScript, focando em pessoas que tenham a condição de TDPM, especialmente pessoas neurodivergentes.
+
+
+REFERÊNCIAS
+
+
+p.Jolene Brighten. Transtorno Disfórico Pré-Menstrual (TDPM) em Mulheres Autistas.Disponível em https://drbrighten.com/autistic-women/;  Acesso em:31 de janeiro de 2025.
+
+Leafwing center; Autismo e menstruação; Disponível em https://leafwingcenter.org/pt/autism-and-periods/. Acesso em: 29 de abril de 2024. 
+
+adult autism health harvard; Menstruação e síndrome Pré Menstrual; Disponível em https://www.adult-autism.health.harvard.edu/resources/menstruation-and-pms/; Acesso em: 3 de setembro de 2024. 

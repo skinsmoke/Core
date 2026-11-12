@@ -21,7 +21,7 @@ Em geral, mulheres com autismo relatam maior sensibilidade a estímulos físicos
 
 No que nosso aplicativo foca?
 
-Nosso aplicativo foca na regulação sensorial e mental dessas pessoas durante o período da TDPM, com espaços voltados para interação com outras pessoas que sofram da mesma condição, além de musicoterapias e áreas para registros de rotinas e cotidiano, além de áreas de informações para melhor autoconhecimento sobre esse ciclo e informações de como conseguir ajuda nesse ciclo, além de dicas para melhor suporte deste período.
+Nosso aplicativo é focado na regulação sensorial e mental de pessoas que convivem com a TDPM (Transtorno Disfórico Pré-Menstrual). A plataforma oferece espaços de interação para a troca de experiências entre usuárias, além de ferramentas de musicoterapia e áreas para o registro detalhado da rotina e do cotidiano.
 
 
 

@@ -1,0 +1,49 @@
+Alunos participantes
+
+Amanda Rafaela Fritzen da Silva, Emily Outramario Miranda
+
+
+A – Visão Geral do Sistema 
+Um aplicativo para auxiliar na Tensão Disfórica Pré-Menstrual e na menstruação.
+B - Requisitos Funcionais
+REF01. O sistema deve conseguir efetuar llogin
+REF02. O sistema deve suportar conteúdo multimídia
+REF03. O sistema deve possuir um sistema de registros de ciclos
+REF04. O sistema deve permitir a criação de novos usuários
+REF05. O sistema deve possuir diferentes telas e possibilidade de navegação entre as mesmas.
+REF06. O sistema deve guardar informações em um banco de dados com segurança
+C - Requisitos Não Funcionais
+
+RNF01. O sistema deve possuir um histórico de textos 
+RNF02. O sistema deve marcar data e hora dos registros
+RNF03. O sistema deve suportar postagens públicas em formato de fórum.
+RNF04. O sistema deve registrar todas as postagens e textos em banco de dados.
+RNF05. O período para registro de ciclos não deve exceder 5 segundos
+RNF06. O sistema deve suportar edições de postagens e respostas. 
+D – Regras de Negócio
+RNE01 - O sistema deve enviar um aviso quando próximo a fase de TPM, 10 e 5 dias antes da menstruação.
+RNE02 - O sistema deve possuir alternância de temas de cores, entre Padrão (Cores Base), Confortável (Cores Quentes) e Escuro (Cores Escuras).
+RNE03- O sistema deve permitir a diminuir ou aumentar a tela (em “zoom”)
+RNE04 - O sistema deve permitir a transcrição de texto para áudio
+
+
+
+E – Protótipo de Telas
+
+
+
+
+F – Glossário
+
+
+Termo
+Descrição
+TDPM- 
+TENSÃO DISFÓRICA PRÉ MENSTRUAL
+TPM
+TENSÃO PRÉ MENSTRUAL.
+
+
+
+
+
